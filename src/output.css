@@ -2055,7 +2055,7 @@ html {
   padding-right: 1.5rem;
 }
 
-@media not all and (min-width: 640px) {
+@media not all and (min-width: 768px) {
   .ulDesk {
     display: none;
   }
