@@ -2070,7 +2070,6 @@ html {
   align-items: center;
   justify-content: space-between;
   gap: 1rem;
-  background-image: url('/public/img/torsoFemininoImg.jpeg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -3630,6 +3629,10 @@ html {
 .bg-white {
   --tw-bg-opacity: 1;
   background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));
+}
+
+.bg-\[url\(\'\/img\/torsoFemininoImg\.jpeg\'\)\] {
+  background-image: url('/img/torsoFemininoImg.jpeg');
 }
 
 .object-contain {
