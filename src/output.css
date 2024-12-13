@@ -3631,12 +3631,8 @@ html {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));
 }
 
-.bg-\[url\(\'\/public\/img\/torsoFemininoImg\.jpeg\'\)\] {
-  background-image: url('/public/img/torsoFemininoImg.jpeg');
-}
-
-.bg-\[url\(\'\.\.\/public\/img\/torsoFemininoImg\.jpeg\'\)\] {
-  background-image: url('../public/img/torsoFemininoImg.jpeg');
+.bg-\[url\(\'img\/torsoFemininoImg\.jpeg\'\)\] {
+  background-image: url('img/torsoFemininoImg.jpeg');
 }
 
 .object-contain {
