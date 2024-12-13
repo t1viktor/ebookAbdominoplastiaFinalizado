@@ -3635,6 +3635,14 @@ html {
   background-image: url('/img/torsoFemininoImg.jpeg');
 }
 
+.bg-\[url\(\'public\/img\/torsoFemininoImg\.jpeg\'\)\] {
+  background-image: url('public/img/torsoFemininoImg.jpeg');
+}
+
+.bg-\[url\(\'\/public\/img\/torsoFemininoImg\.jpeg\'\)\] {
+  background-image: url('/public/img/torsoFemininoImg.jpeg');
+}
+
 .object-contain {
   -o-object-fit: contain;
      object-fit: contain;
